@@ -1,2 +1,1 @@
-# contarcaracteres
-Web App - Contar Caracteres
+# Contar Caracteres
