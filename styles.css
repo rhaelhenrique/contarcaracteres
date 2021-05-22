@@ -18,7 +18,8 @@ html {
     height: 100%;
     width: 100%;
     font-size: 15px;
-    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(233,244,255,1) 100%);
+    background-color: #fafafa;
+    color: #555;
 }
 
 h1 {
@@ -130,7 +131,7 @@ h2, h3, h4, h5, h6, p, ul, li, span {
 .show-result {
     margin-top: 0.5rem;
     font-family: Roboto, sans-serif;
-    font-size: 1.1rem;
+    font-size: 1rem;
     font-weight: 700;
     display: flex;
     justify-content: left;
@@ -143,7 +144,7 @@ h2, h3, h4, h5, h6, p, ul, li, span {
 }
 
 .resultado {
-    font-size: 1.4rem;
+    font-size: 1.1rem;
     padding-left: 0.4rem;
     padding-right: 0.4rem;
     padding-top: 0.3rem;
@@ -151,7 +152,7 @@ h2, h3, h4, h5, h6, p, ul, li, span {
 }
 
 .sobre-box {
-    width: 60%;
+    width: 70%;
     height: auto;
     margin-top: 2rem;
     padding-top: 1rem;
