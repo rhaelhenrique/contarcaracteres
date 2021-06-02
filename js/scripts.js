@@ -17,7 +17,3 @@ function contar(){
     document.getElementById("palavras").innerHTML = words;
     document.getElementById("linhas").innerHTML = lines;
 }
-
-function uper(){
-    alert("teste");
-}
